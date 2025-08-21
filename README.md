@@ -1,5 +1,5 @@
 # Turtl 🐢
-
+https://www.turtleai.dev/
 A macOS menu bar app that helps you "eat your turtles" - the most important tasks of the day. Turtl uses AI to intelligently schedule your tasks at the optimal time based on priority, task type, and your schedule. 
 ## Features
 
