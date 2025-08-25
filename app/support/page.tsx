@@ -117,33 +117,6 @@ export default function SupportPage() {
           </form>
         </div>
 
-        {/* Contact Section */}
-        <div className="bg-blue-50 rounded-2xl p-8 mb-12">
-          <h2 className="text-2xl font-semibold text-gray-900 mb-6">Other ways to reach us</h2>
-          <div className="grid md:grid-cols-2 gap-8">
-            <div>
-              <h3 className="font-semibold text-gray-900 mb-2">Email Support</h3>
-              <p className="text-gray-600 mb-3">Send us an email and we'll get back to you within 24 hours.</p>
-              <a
-                href="mailto:charvibansal2006@gmail.com"
-                className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
-              >
-                Email Support
-              </a>
-            </div>
-            <div>
-              <h3 className="font-semibold text-gray-900 mb-2">Feature Requests</h3>
-              <p className="text-gray-600 mb-3">Have an idea for improving Turtl? We'd love to hear it.</p>
-              <a
-                href="mailto:charvibansal2006@gmail.com"
-                className="inline-flex items-center px-4 py-2 bg-gray-200 text-gray-900 rounded-lg hover:bg-gray-300 transition-colors"
-              >
-                Send Feedback
-              </a>
-            </div>
-          </div>
-        </div>
-
         {/* FAQ Section */}
         <div className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-900 mb-8">Frequently Asked Questions</h2>
